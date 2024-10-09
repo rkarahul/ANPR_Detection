@@ -25,7 +25,7 @@ The system is designed for scalability, allowing for easy integration with live 
 
 ## Technologies Used
 
-- Python 3.9
+- Python 3.10.15
 - OpenCV (for image processing)
 - YOLO (for vehicle detection)
 - PaddleOCR (for optical character recognition)
